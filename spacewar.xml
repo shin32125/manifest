@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="shin32125/device_nothing_Spacewar-2" path="device/nothing/Spacewar" remote="github" revision="spark" />
+<project name="Xtended-Devices/kernel_nothing_sm7325" path="kernel/nothing/sm7325" remote="github" revision="xt" />
+<project name="jamal2362/packages_apps_ParanoidGlyph" path="packages/apps/ParanoidGlyph" remote="github" revision="master" />
+</manifest>
