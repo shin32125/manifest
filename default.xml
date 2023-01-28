@@ -1184,5 +1184,6 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" />
   <include name="snippets/spark.xml" />
   <include name="snippets/lineage.xml" />
+  <include name="snippets/spacewar.xml" />
   <!-- END open-source projects -->
 </manifest>
