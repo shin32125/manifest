@@ -207,6 +207,7 @@
 
   <!-- Hardware repos -->
   <project path="hardware/lineage/interfaces" name="hardware_lineage_interfaces" remote="spark" />
+  <project path="hardware/spark/compat" name="hardware_spark_compat" remote="spark" />  
   <project path="hardware/interfaces" name="hardware_interfaces" remote="spark" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="spark" />
   <project path="hardware/qcom-caf/bootctrl" name="android_hardware_qcom_bootctrl" groups="qcom,pdk-qcom" remote="arrow" revision="arrow-13.0-caf" />
@@ -284,6 +285,7 @@
   <!-- vendor repos -->
   <project path="vendor/gms" name="android_vendor_gms" remote="spark-gitlab" clone-depth="1" />
   <project path="vendor/spark" name="platform_vendor_spark" remote="spark" />
+  <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="spark" />
   <project path="vendor/support" name="platform_vendor_support" remote="spark" />
   <project path="vendor/qcom/opensource/healthd-ext" name="android_vendor_qcom_opensource_healthd-ext" remote="arrow"/>
   <project path="vendor/qcom/opensource/fm-commonsys" name="vendor_qcom_opensource_fm-commonsys" remote="spark" />
